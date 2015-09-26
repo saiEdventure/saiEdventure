@@ -1,2 +1,1 @@
 # saiEdventure
-An Educational Institute
